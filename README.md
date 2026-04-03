@@ -1,4 +1,4 @@
-# sp_project
+# Final Project in Signal Processing
 A shared repo for the final project in *NFYK23003U Introduction to Signal Processing in Experimental Physics* (SP). 
 
 ## Contributors:

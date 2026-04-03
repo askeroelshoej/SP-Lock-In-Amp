@@ -1,0 +1,27 @@
+name: sp_project_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Python & package managers
+  - python=3.10
+  - pip
+
+  # REPL & Jupyter support
+  - ipython
+  - ipykernel
+  - jupyter
+  - ipywidgets
+
+  # Core data stack
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - xarray
+  - pyyaml
+
+  # Statistics
+  - iminuit
+  - lmfit
+  - numba
